@@ -1,0 +1,5 @@
+classes = 1
+train = /ai/nn/cars/cars_train.txt
+valid = /ai/nn/cars/cars_valid.txt
+names = /ai/nn/cars/cars.names
+backup = /ai/nn/cars
