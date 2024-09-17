@@ -20,10 +20,10 @@ This project is a neural network designed to recognize cars in various images or
 Here are some example predictions made by the model:
 
 
-![img1](https://github.com/mateicojo/car-detection-yolov4-tiny/blob/master/results/image%20(1).png)
-![img2](https://github.com/mateicojo/car-detection-yolov4-tiny/blob/master/results/image%20(2).png)
-![img3](https://github.com/mateicojo/car-detection-yolov4-tiny/blob/master/results/image%20(3).png)
-![img4](https://github.com/mateicojo/car-detection-yolov4-tiny/blob/master/results/image.png)
+![img1](https://github.com/mateicojo/car-detection-yolov4-tiny/blob/main/results/image%20(1).png)
+![img2](https://github.com/mateicojo/car-detection-yolov4-tiny/blob/main/results/image%20(2).png)
+![img3](https://github.com/mateicojo/car-detection-yolov4-tiny/blob/main/results/image%20(3).png)
+![img4](https://github.com/mateicojo/car-detection-yolov4-tiny/blob/main/results/image.png)
 
 ## Model Architecture
 - **YOLOv4-tiny**: A lightweight version of YOLO designed for real-time object detection.
