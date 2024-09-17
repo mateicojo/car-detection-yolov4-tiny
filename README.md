@@ -8,8 +8,8 @@ Official updated Darknet repo: https://github.com/hank-ai/darknet currently main
 2. [Model Architecture](#model-architecture)
 3. [Installation](#installation)
 4. [Usage](#usage)
-    - [Inference on Images]
-    - [Training]
+    - Inference on images,videos,other streams
+    - Training
 5. [Dataset](#dataset)
 6. [Results](#results)
 
