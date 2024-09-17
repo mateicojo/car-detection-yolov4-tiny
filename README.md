@@ -43,7 +43,7 @@ Here are some example predictions made by the model:
 **Note** I would rather NOT copy or create any directories in the root darknet folder, a sepparate directory can be created and the absolute paths can be specified to make sure everything goes well.
 
 ## Usage
-**Inference on images or videos**
+## Inference on images or videos
 1. Using only darknet method:
   In case Darkhelp is not setup on your system, but you still want to detect cars in an image, or video, using only the darknet tool run the following command:
 ```bash
