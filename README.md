@@ -14,8 +14,6 @@ Official updated Darknet repo: https://github.com/hank-ai/darknet currently main
 6. [Results](#results)
 
 
-## Preview
-
 
 ## Project Overview
 This project is a neural network designed to recognize cars in various images or video streams. I used the yolov4-tiny architecture for efficient, real-time object detection.
