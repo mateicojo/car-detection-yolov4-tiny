@@ -8,8 +8,8 @@ Official updated Darknet repo: https://github.com/hank-ai/darknet currently main
 2. [Model Architecture](#model-architecture)
 3. [Installation](#installation)
 4. [Usage](#usage)
-    - [Inference on Images](#inference-on-images)
-    - [Training](#training)
+    - [Inference on Images]
+    - [Training]
 5. [Dataset](#dataset)
 6. [Results](#results)
 
@@ -43,7 +43,7 @@ Here are some example predictions made by the model:
 **Note** I would rather NOT copy or create any directories in the root darknet folder, a sepparate directory can be created and the absolute paths can be specified to make sure everything goes well.
 
 ## Usage
-## Inference on images or videos
+**Inference on images or videos**
 1. Using only darknet method:
   In case Darkhelp is not setup on your system, but you still want to detect cars in an image, or video, using only the darknet tool run the following command:
 ```bash
@@ -54,7 +54,7 @@ darknet detector test /cars.data /cars.cfg /cars_final.weights /path/to/image/or
 ```bash
 DarkHelp cars.cfg cars_final.weights cars.names <path to video, image, or directory of images>
 ```
-## Training
+**Training**
   Improvoment to the current state of the model can be made by further training. If you wish to do so, I recommend using the DarkMark tool, load your training dataset files and link the cars_final.weights and cars.cfg file to the project.
   Since the network is already trained, DarkMark will automatically be making predictions on your loaded dataset, you will only have to accept/decline the predictions and do some fine tuning here and there.
   After annotating your dataset, right-click>create darknet files
