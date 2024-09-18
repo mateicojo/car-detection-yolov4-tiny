@@ -55,7 +55,8 @@ darknet detector test /cars.data /cars.cfg /cars_final.weights /path/to/image/or
 DarkHelp cars.cfg cars_final.weights cars.names <path to video, image, or directory of images>
 ```
 **Training**
-  Improvoment to the current state of the model can be made by further training. If you wish to do so, I recommend using the DarkMark tool, load your training dataset files and link the cars_final.weights and cars.cfg file to the project.
+
+  Improvement to the current state of the model can be made by further training. If you wish to do so, I recommend using the DarkMark tool, load your training dataset files and link the cars_final.weights and cars.cfg file to the project.
   Since the network is already trained, DarkMark will automatically be making predictions on your loaded dataset, you will only have to accept/decline the predictions and do some fine tuning here and there.
   After annotating your dataset, right-click>create darknet files
   To start training, run the generated script:
